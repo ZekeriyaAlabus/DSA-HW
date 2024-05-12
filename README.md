@@ -9,6 +9,7 @@ paste it on git bash to Clone
 
 git clone https://github.com/ZekeriyaAlabus/DSA-HW.git
 
+# Result 
 After that will have git file in my Folder 
 
 # Download G++
@@ -16,4 +17,6 @@ After that will have git file in my Folder
 i will try on problem 1
 
 g++ Problem 01.cpp
-.p1.exe
+
+# Result 
+a.exe
